@@ -17,3 +17,5 @@ brew install --cask chromium
 ```bash
 xattr -d com.apple.quarantine /Applications/Chromium.app
 ```
+
+4. Then You are good to go. Happy Chroming
