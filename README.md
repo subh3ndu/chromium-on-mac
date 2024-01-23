@@ -18,4 +18,4 @@ brew install --cask chromium
 xattr -d com.apple.quarantine /Applications/Chromium.app
 ```
 
-4. Then You are good to go. Happy Chroming 🎉
+4. Then You are good to go. Happy Chroming
